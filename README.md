@@ -5,12 +5,10 @@
 
 <!--[![Stackoverflow Badge](https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196)](https://https://stackoverflow.com/users/14499995/henrique-gibi-de-p%C3%A1duaa//)-->
 
-
-
 ```javascript
   async user.index({
    💬 name: 'Henrique Gibi de Padua',
-   🎂 age: 37,
+   🙊 age: encrypted-data,
    💒 city: 'São Paulo, SP',
    🎓 degree: 'Software Engineer'
    💻 coding: 'Java','C-Sharp'
