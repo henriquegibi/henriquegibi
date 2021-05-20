@@ -11,7 +11,7 @@
    🙊 age: encrypted-data,
    💒 city: 'São Paulo, SP',
    🎓 degree: 'Software Engineer'
-   💻 coding: 'Java','C-Sharp'
+   💻 coding: 'Java','C-Sharp', 'python'
    📚 stack: ['Spring','REST','AWS','Angular','Ionic'],
    📺 hobby: 'logical-chalenges','series'
    🎮 games: 'Dota2','Left4Dead2'
