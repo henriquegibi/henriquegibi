@@ -1,4 +1,4 @@
-## I am Henrique: AWS Builder, Java Dev and Game Creator! <img src="https://i.imgur.com/wBCZame.gif" width=2%>
+## I am Henrique: AWS Builder, Java Dev and Game Creator!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/henriquedepadua/)](https://www.linkedin.com/in/henriquedepadua/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Email&logoColor=white&color=red&link=henriquedepadua@yahoo.com.br)](mailto:henriquedepadua@yahoo.com.br)
@@ -10,10 +10,10 @@ My website: [HenriqueGibi.click](http://henriquegibi.click/)
   async user.index({
    💬 name: 'Henrique Gibi de Padua',
    🙊 age: encrypted-data,
-   💒 city: 'São Paulo, SP',
+   💒 city: 'SJundiaí - SP',
    🎓 degree: 'Software Engineer'
    💻 coding: 'Java','C-Sharp','Python'
-   📚 stack: ['Spring','REST','AWS','Angular','Ionic'],
+   📚 stack: ['Spring','REST','AWS'],
    📺 hobby: 'logical-chalenges','series'
    🎮 games: 'Dota2','Left4Dead2'
   });
