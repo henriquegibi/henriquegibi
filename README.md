@@ -10,11 +10,11 @@ My website: [HenriqueGibi.click](http://henriquegibi.click/)
   async user.index({
    💬 name: 'Henrique Gibi de Padua',
    🙊 age: encrypted-data,
-   💒 city: 'SJundiaí - SP',
-   🎓 degree: 'Software Engineer'
-   💻 coding: 'Java','C-Sharp','Python'
-   📚 stack: ['Spring','REST','AWS'],
-   📺 hobby: 'logical-chalenges','series'
+   💒 city: 'Jundiaí - SP',
+   🎓 degree: 'Software Engineer',
+   💻 coding: 'Java','C-Sharp','Python',
+   📚 stack: 'Spring','REST','AWS',
+   📺 hobby: 'logical-chalenges','series',
    🎮 games: 'Dota2','Left4Dead2'
   });
   
