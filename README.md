@@ -14,8 +14,7 @@ My website: [HenriqueGibi.click](http://henriquegibi.click/)
    🎓 degree: 'Software Engineer',
    💻 coding: 'Java','C-Sharp','Python',
    📚 stack: 'Spring','REST','AWS',
-   📺 hobby: 'logical-chalenges','series',
-   🎮 games: 'Dota2','Left4Dead2'
+   📺 hobby: 'game creation','series'
   });
   
   return response.status(201).send();
